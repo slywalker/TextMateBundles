@@ -46,3 +46,9 @@
 [submodule "slywalker.tmbundle"]
 	path = slywalker.tmbundle
 	url = git://github.com/slywalker/slywalker.tmbundle.git
+[submodule "yui-compressor.tmbundle"]
+	path = yui-compressor.tmbundle
+	url = git://github.com/mattkirman/YUI-Compressor-tmbundle.git
+[submodule "ruby-sass-tmbundle"]
+	path = ruby-sass-tmbundle
+	url = git://github.com/aussiegeek/ruby-sass-tmbundle.git
