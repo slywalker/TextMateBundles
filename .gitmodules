@@ -40,3 +40,6 @@
 [submodule "git.tmbundle"]
 	path = git.tmbundle
 	url = git://github.com/timcharper/git-tmbundle.git
+[submodule "cakephp.tmbundle"]
+	path = cakephp.tmbundle
+	url = git://github.com/cakephp/cakephp-tmbundle.git
