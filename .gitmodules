@@ -1,0 +1,42 @@
+[submodule "textmate.tmbundle"]
+	path = textmate.tmbundle
+	url = git://github.com/textmate/textmate.tmbundle.git
+[submodule "html.tmbundle"]
+	path = html.tmbundle
+	url = git://github.com/textmate/html.tmbundle.git
+[submodule "source.tmbundle"]
+	path = source.tmbundle
+	url = git://github.com/textmate/source.tmbundle.git
+[submodule "json.tmbundle"]
+	path = json.tmbundle
+	url = git://github.com/textmate/json.tmbundle.git
+[submodule "php.tmbundle"]
+	path = php.tmbundle
+	url = git://github.com/textmate/php.tmbundle.git
+[submodule "shellscript.tmbundle"]
+	path = shellscript.tmbundle
+	url = git://github.com/textmate/shellscript.tmbundle.git
+[submodule "javascript.tmbundle"]
+	path = javascript.tmbundle
+	url = git://github.com/textmate/javascript.tmbundle.git
+[submodule "css.tmbundle"]
+	path = css.tmbundle
+	url = git://github.com/textmate/css.tmbundle.git
+[submodule "markdown.tmbundle"]
+	path = markdown.tmbundle
+	url = git://github.com/textmate/markdown.tmbundle.git
+[submodule "imagebrowser.tmbundle"]
+	path = imagebrowser.tmbundle
+	url = git://github.com/textmate/imagebrowser.tmbundle.git
+[submodule "textile.tmbundle"]
+	path = textile.tmbundle
+	url = git://github.com/textmate/textile.tmbundle.git
+[submodule "text.tmbundle"]
+	path = text.tmbundle
+	url = git://github.com/textmate/text.tmbundle.git
+[submodule "javascript-jquery.tmbundle"]
+	path = javascript-jquery.tmbundle
+	url = git://github.com/textmate/javascript-jquery.tmbundle.git
+[submodule "git.tmbundle"]
+	path = git.tmbundle
+	url = git://github.com/timcharper/git-tmbundle.git
