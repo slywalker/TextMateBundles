@@ -52,3 +52,6 @@
 [submodule "ruby-sass.tmbundle"]
 	path = ruby-sass.tmbundle
 	url = git://github.com/aussiegeek/ruby-sass-tmbundle.git
+[submodule "less.tmbundle"]
+	path = less.tmbundle
+	url = git://github.com/appden/less.tmbundle.git
