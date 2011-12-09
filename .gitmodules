@@ -55,3 +55,6 @@
 [submodule "less.tmbundle"]
 	path = less.tmbundle
 	url = git://github.com/appden/less.tmbundle.git
+[submodule "nginx.tmbundle"]
+	path = nginx.tmbundle
+	url = git://github.com/johnmuhl/nginx-tmbundle.git
